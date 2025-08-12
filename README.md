@@ -23,7 +23,7 @@
 - ☁️ Cloud Enthusiast — AWS Solutions Architect & DevOps with **Terraform, AWS CDK, Ansible, Docker**
 - 📱 Mobile Development with **Ionic & React Native**
 - 🌱 Currently exploring **Generative AI** and **Python for AI/ML**
-- 👨‍💻 Portfolio: *(add your portfolio link if you want)*
+- 👨‍💻 Portfolio: 
 - 📫 Reach me at **Atturehman86@gmail.com**
 
 ---
