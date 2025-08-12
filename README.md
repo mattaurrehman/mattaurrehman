@@ -24,7 +24,7 @@
 - 📱 Mobile Development with **Ionic & React Native**
 - 🌱 Currently exploring **Generative AI** and **Python for AI/ML**
 - 👨‍💻 Portfolio: *(add your portfolio link if you want)*
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **Atturehman86@gmail.com**
 
 ---
 
