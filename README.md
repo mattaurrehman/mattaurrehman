@@ -52,7 +52,7 @@ I’m always exploring **AI and emerging technologies** to stay ahead in the tec
 ---
 
 ### 🌐 Social
-<a href="https://www.linkedin.com/in/muhammadattaurrehman/">
+<a href="https://www.linkedin.com/in/muhammadattaurehman/">
    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/yourusername/">
